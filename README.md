@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is Ritvik Gupta.
+# I'm a student and software developer from New Jersey. Check out some of my repositories. I code mainly in Python and Javascript.
 
 <!--
 **ritzthecracker/ritzthecracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
