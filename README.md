@@ -9,4 +9,5 @@ I wanted to add more functionality to my websites, so I started learning [Javasc
 With my proficient knowledge in Python and Javascript, I am learning about combining my knowledge to make full-stack applications.
 
 Check out my portfolio here: https://ritzthecracker.github.io/
+
 You can find me on twitter here: https://twitter.com/ritzephy
