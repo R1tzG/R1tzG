@@ -11,17 +11,11 @@ With my proficient knowledge in Python and Javascript, I am learning about combi
 Outside of my personal coding endeavours, I am part of Millburn Robotics AI, which is the first ever VEX AI team. Here is the github repo for our codebase: https://github.com/22pilarskil/VEXAI_2021-2022. Also check out the website I made to showcase our work: https://millburnai.org.
 
 Skills:
-- Python
-- HTML
-- CSS
-- Javascript
-- Java
-- Flutter
-- C#
-- C++
-- Unity
-- Three.js
-- React
+- Languages: Python, HTML, CSS, Javascript, Java, Dart, C#, C++
+- Frameworks: Flutter, Unity
+- Libraries: Tensorflow, Three.js, OpenCV, Matplotlib, Pandas
+
+Currently learning: React, React Native, Django
 
 Check out my portfolio here: https://ritzthecracker.github.io/
 
