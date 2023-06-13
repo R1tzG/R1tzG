@@ -1,7 +1,7 @@
-### My name is Ritvik Gupta. I'm a student and software developer from New Jersey. Check out some of my repositories. I code mainly in Python and Java.
+### My name is Ritvik. I'm a student focused on real world robotics and machine learning applications.
 
 Portfolio: https://ritvikg.dev/
 
 Linkedin: https://www.linkedin.com/in/ritvikgupta11/
 
-Discord: ritz#2946
+Discord: ritvikg#2946
