@@ -4,4 +4,4 @@ Portfolio: https://ritvikg.dev/
 
 Linkedin: https://www.linkedin.com/in/ritvikgupta11/
 
-Discord: ritvikg#2946
+Discord: purelyboba
